@@ -1,0 +1,14 @@
+#login_button{
+    width: 80%;
+    border-radius: 15px;
+}
+
+.login_div{
+    background: rgba(255,255,255,0.8);
+    float: none;
+    border-radius: 15px;
+}
+
+body{
+    background-image: linear-gradient(to right top, #33a0f1, #37a4e4);
+}

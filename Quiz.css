@@ -1,0 +1,65 @@
+body
+{
+    background-color: #F5F5F5;
+    text-align: center;
+}
+
+.options
+{
+    padding: 50px;
+    font-size: 25px;
+    border: 2px solid black;
+    width: 400px;
+}
+
+#ScoreBox
+{
+    display: none;
+}
+
+.completed
+{
+    width: 450px;
+    height: 200px;
+    font-size: 40px;
+    margin-right: 100px;
+}
+
+.score
+{
+    width: 450px;
+    height: 200px;
+    font-size: 40px;
+}
+
+#Question
+{
+    padding: 50px;
+    border: 2px solid black;
+    width: 1210px;
+    font-size: 30px;
+}
+
+#opt1
+{
+    position: relative;
+}
+
+#opt2
+{
+    position: relative;
+    top: 200px;
+    right: 405px;
+}
+
+#opt3
+{
+    position: relative;
+}
+
+#opt4
+{
+    position: relative;
+    top: 70px;
+    left: 405px;
+}

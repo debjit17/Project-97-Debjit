@@ -1,0 +1,33 @@
+body
+{
+    text-align: center;
+    background-color: #f5f5f5;
+}
+
+input
+{
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+label
+{
+    font-size: 20px;
+    margin-right: 300px;
+}
+
+#question-adder
+{
+    background-color: lightblue;
+    border: 2px solid black;
+    width: 900px;
+    position: relative;
+    left: 225px;
+    top: 50px;
+}
+
+.my-btn
+{
+    width: 100px;
+    margin: 20px;
+}
